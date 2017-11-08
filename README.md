@@ -1,0 +1,2 @@
+- Logistic Regression Classifier in Python+Numpy
+- MLP in PyTorch
